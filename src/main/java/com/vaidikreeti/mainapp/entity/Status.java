@@ -108,8 +108,7 @@ public class Status implements Serializable {
 	}
 	
 	 
-	
-	
+		
 	
 	
 	
